@@ -1,8 +1,7 @@
 # test
 This is a test repository.
 
-This is a code. You have to use ` instead of '
-` is the one with the ~ key.
+This is a code. Instead of ', you have to use the one with the ~ key.
 You don't have to make blank lines.
 ```
 a = 2
